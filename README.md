@@ -1,2 +1,0 @@
-# tsglobal-legal
-tsglobal-legal
